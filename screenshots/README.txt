@@ -1,0 +1,25 @@
+Put one screenshot per test here, named <test_name>_output.png
+(the test names are in the PROMPT lines of the test scripts), e.g.:
+
+test_register_success_output.png
+test_update_grade_success_output.png
+test_drop_enrollment_success_output.png
+test_course_roster_output.png
+test_grade_distribution_output.png
+test_bulk_import_success_output.png
+test_recalculate_gpa_output.png
+test_functions_output.png
+test_benchmark_output.png
+test_err_student_not_found_output.png
+test_err_course_not_found_output.png
+test_err_student_suspended_output.png
+test_err_course_full_output.png
+test_err_duplicate_enrollment_output.png
+test_err_update_grade_output.png
+test_err_drop_enrollment_output.png
+test_err_empty_roster_output.png
+test_err_predefined_exceptions_output.png
+test_err_function_validation_output.png
+test_err_bulk_parameters_output.png
+test_err_bulk_dml_errors_output.png
+test_err_constraint_violation_output.png
